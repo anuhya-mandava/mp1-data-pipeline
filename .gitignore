@@ -13,3 +13,6 @@ Thumbs.db
 
 # Virtual environment
 venv/
+
+# Output
+output/
